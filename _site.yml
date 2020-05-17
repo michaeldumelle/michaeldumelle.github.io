@@ -1,0 +1,11 @@
+name: "Michael Dumelle"
+output_dir: "."
+navbar:
+  title: "Michael Dumelle"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cerulean
+    css: 'styles.css'
