@@ -9,7 +9,7 @@
 <img src="images/dumelle_photo1.jpg" style="width:25%; border:7px solid; margin-right: 30px" align="right">
       
    
-I am a statistician for the Freshwater Ecology Branch of the U.S. Environmental Protection Agency, primarily working on [National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys).  My main research interests lie in environmental survey design and analysis, spatial statistics, and spatio-temporal statistics.  I also enjoy applying statistical methodology to collaborative work in a variety of other scientific fields.
+I am a statistician for the Freshwater Ecology Branch of the U.S. Environmental Protection Agency, primarily working on [National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys).  My main research interests are spatial statistics, survey design, and software development.  I also enjoy applying statistical methodology to collaborative work in a variety of other scientific fields.
 
 * To learn more about my work and download publications or software, view my [CV](files/curriculum_vitae/dumelle_cv.pdf) and the associated [GitHub](https://github.com/michaeldumelle) repositories
 * To visit my Google Scholar page, click [here](https://scholar.google.com/citations?hl=en&user=3quCl1EAAAAJ)
